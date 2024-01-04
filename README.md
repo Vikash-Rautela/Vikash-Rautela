@@ -128,10 +128,10 @@ I am Vikash, a student and tech enthusiast with a passion for software developme
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   </a>
   <a href="https://react.dev/" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+    <img alt="React JS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>
   </a>
-  <a href="https://react.dev/" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img alt="Next JS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs"/>
   </a>
 
   
