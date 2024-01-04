@@ -5,7 +5,7 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Full+Stack+Developer;Compititive+Programmer;Technical+Content+Writer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Tech+Enthusiast;Full+Stack+Developer;Compititive+Programmer;Technical+Content+Writer;)](https://git.io/typing-svg)
 </div>
 <p align="center" >
 <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
@@ -39,13 +39,12 @@ I am Vikash, a student and tech enthusiast with a passion for software developme
 
 <p align="center"><!-----Social Accounts------>
 
-<p align="center">
+<p align="left">
 <a href="">
 <img border="0" alt="Vikash's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
 </a>
 
 <a href="https://www.linkedin.com/in/vikash-rautela/">
- 
 <img border="0" alt="Vikash's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
 </a>
 
@@ -57,13 +56,6 @@ I am Vikash, a student and tech enthusiast with a passion for software developme
 <img border="0" alt="Vikash's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
 </a>
 
-<a href="https://t.me/">
-<img border="0" alt="Vikash's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
-</a>
-
-<a href="https://discord.com/">
-<img border="0" alt="Vikash (He/Him)" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
-</a>
 <a href="mailto:rautelavikash27@gmail.com">
 <img border="0" alt="Vikash's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
 </a>
@@ -88,9 +80,6 @@ I am Vikash, a student and tech enthusiast with a passion for software developme
     <img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white">
   </a> 
   
-  <a href="https://www.hackerearth.com/" target="_blank"> 
-    <img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?logo=HackerEarth&logoColor=blue"/>
-  </a>
   
   <a href="https://leetcode.com/" target="_blank"> 
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=d16c06"/>
@@ -106,20 +95,15 @@ I am Vikash, a student and tech enthusiast with a passion for software developme
 ### 📋 Programming languages
 
 <p align="left"> 
-
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="https://cplusplus.com/doc/tutorial/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
-
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
   </a>
-
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
-
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
   </a>
@@ -131,21 +115,26 @@ I am Vikash, a student and tech enthusiast with a passion for software developme
 ### 📋 Frontend Development
 
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-  
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   </a>
-  
   <a href="https://tailwindcss.com" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   </a>
+  <a href="https://react.dev/" target="_blank"> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://react.dev/" target="_blank"> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  </a>
+
+  
 </p>
 
 
@@ -272,4 +261,4 @@ I am Vikash, a student and tech enthusiast with a passion for software developme
 
 <br>
 
-#### <p align="center"><b>Thank you for taking the time to read my profile </b></p>
+#### <p align="center"><b>Thank you for showing interest in my profile </b></p>
