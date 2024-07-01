@@ -11,22 +11,19 @@
 <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 </p>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  **About Me**
+
 I am Vikash, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
 
-<br>
+### More About Me:
+- 🔭 I’m currently working on something cool—I love diving into new projects and experimenting with cutting-edge technologies.
+- 👯 I’m looking forward to collaborating on Web Related projects to contribute my skills and learn from others.
+- 💬 Ask me about anything tech-related; I'm always eager to share knowledge and help others solve problems.
+- 🌱 I enjoy creating content that educates and inspires others, whether through writing, coding tutorials, or sharing insights on tech trends.
+- 🚀 Aspiring to be a entrepreneur, I'm curious about developing solutions that contribute positively to society and empower individuals through technology.
 
+Let's connect and innovate together!
 
-
-  <p>
-  
-
-
- -  🔭 I’m currently working on something cool 😉
-
-- 👯 I’m looking forward to collaborate on Web Related projects.
-
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
 
 
 <br>
